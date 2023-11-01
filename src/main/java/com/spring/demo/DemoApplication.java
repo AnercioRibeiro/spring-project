@@ -15,7 +15,6 @@ import io.swagger.v3.oas.annotations.info.Info;
 	)
 )
 public class DemoApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
